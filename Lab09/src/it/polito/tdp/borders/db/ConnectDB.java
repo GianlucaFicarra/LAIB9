@@ -8,6 +8,7 @@ import com.zaxxer.hikari.HikariDataSource;
 
 public class ConnectDB {
 	
+	
 	/*La tabella country riporta la lista di tutte le nazioni, ciascuna identificata da un numero, da un’abbreviazione
 	univoca di 3 lettere e dal nome completo. La tabella contiguity rappresenta la presenza di un confine, per ogni
 	coppia di stati (‘state1no’, ‘state2no’), a partire dall’anno ‘year’ (anni compresi tra il 1816 ed il 2006). Esistono
